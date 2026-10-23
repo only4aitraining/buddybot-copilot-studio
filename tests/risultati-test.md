@@ -1,6 +1,6 @@
 # Risultati dei test
 
-I test sono stati eseguiti nel pannello **Testa l'agente** di Copilot Studio, aprendo una nuova sessione per ogni domanda. Il registro completo, con risposte ottenute e fonti citate, è in [`Test_BuddyBot.xlsx`](Test_BuddyBot.xlsx).
+I test sono stati eseguiti nel pannello **Testa l'agente** di Copilot Studio, aprendo una nuova sessione per ogni domanda. Il registro completo, con risposte ottenute e fonti citate, è in [`Test_BuddyBot.xlsx`](Test_BuddyBot.xlsx) (file Excel da scaricare: GitHub non lo visualizza nel browser).
 
 **Risultato: 15 test su 15 superati**, di cui uno dopo una correzione. Con l'IA generativa le formulazioni cambiano da un tentativo all'altro: il criterio di valutazione è che contenuto e fonte siano corretti.
 
