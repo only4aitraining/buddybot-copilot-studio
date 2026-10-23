@@ -129,3 +129,7 @@ File demo: [`demo-data/`](demo-data/)
 ## Autore
 
 **Nicola Miceli**, progetto dimostrativo realizzato a ottobre 2026.
+
+## Licenza
+
+Documentazione, immagini e file demo sono distribuiti con licenza [CC BY 4.0](LICENSE): puoi riusarli e adattarli citando l'autore.
