@@ -72,7 +72,7 @@ L'**orchestrazione generativa** legge la domanda e decide se cercare nei documen
 
 Un test è stato superato solo dopo una correzione. L'informazione stava in una tabella del PDF e la ricerca SharePoint non la recuperava. Il documento è stato riscritto con frasi esplicite e il test ripetuto.
 
-➡️ [Risultati e caso del test 7](tests/risultati-test.md) · [Registro completo (Excel)](tests/Test_BuddyBot.xlsx)
+➡️ [Risultati e caso del test 7](tests/risultati-test.md) · [Registro completo (Excel, da scaricare)](tests/Test_BuddyBot.xlsx)
 
 ## Scelte tecniche
 
