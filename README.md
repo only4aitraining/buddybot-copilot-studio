@@ -1,6 +1,6 @@
 # BuddyBot – Agente IA per l'onboarding HR
 
-**Microsoft Copilot Studio · SharePoint · Power Automate · Microsoft Teams**
+**Microsoft Copilot Studio · SharePoint · Power Automate · Microsoft Teams**<br>
 Progetto dimostrativo · ottobre 2026
 
 ![BuddyBot – panoramica](images/00-buddybot-panoramica.png)
